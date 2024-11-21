@@ -1,0 +1,19 @@
+
+
+.nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0; 
+}
+
+.dropdown-menu {
+  display: none; 
+}
+
+.navbar-nav .nav-link:hover {
+  color: #f16895;  
+}
+
+.dropdown-menu .dropdown-item:hover {
+  background-color: #090003; 
+  color: rgb(235, 97, 157); 
+}
